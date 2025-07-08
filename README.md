@@ -1,46 +1,62 @@
-# SIJAGO88 OFFICIAL
-Solusi Game online terbaik untuk yang suka layanan cepat, aman, dan nyaman 24/7 Hour
-Selamat datang di **SIJAGO88 OFFICIAL** – Platform terpercaya untuk Anda yang mencari hiburan, peluang, dan komunitas yang solid dalam satu tempat.
+# 📘 SIJAGO88 OFFICIAL
 
-🌐 **Kunjungi Website Resmi:**  
-👉 [sijago88nih.github.io/OFFICIAL](https://sijago88nih.github.io/OFFICIAL/)
+**SIJAGO88 OFFICIAL** adalah halaman web publik yang dibangun menggunakan GitHub Pages, berfungsi sebagai **platform informasi utama** dan pusat tautan untuk pengguna SIJAGO88. Halaman ini dirancang dengan antarmuka sederhana, cepat diakses, dan mobile-friendly.
 
-📝 **Daftar Sekarang (GRATIS):**  
-👉 [Klik untuk Daftar Langsung](https://adskita.link/sijago88)
+🔗 **URL Situs**: [https://sijago88nih.github.io/OFFICIAL/](https://sijago88nih.github.io/OFFICIAL/)
 
 ---
 
-## 🚀 Kenapa Memilih SIJAGO88?
+## 🚀 Fitur Utama
 
-- ✅ **Mudah Digunakan**
-- 🔐 **Keamanan Terjamin**
-- 💸 **Transaksi Cepat** 
-- 🎁 **Bonus Menarik**
-- 📞 **Customer Service 24/7**
+- ✅ Desain ringan dan responsive  
+- ✅ Navigasi cepat menuju halaman pendaftaran & informasi penting  
+- ✅ Struktur HTML bersih dan mudah dikembangkan  
+- ✅ Bebas dari unsur perjudian (non-gambling platform)
 
 ---
 
-## 📱 Akses Mudah di Semua Perangkat
+## 📂 Struktur Proyek
 
-SIJAGO88 dapat diakses dengan lancar melalui:
-- Android 📱  
-- iOS 🍏  
-- Desktop 💻  
+```
+/OFFICIAL/
+├── index.html           # Halaman utama
+├── assets/              # Folder untuk gambar, ikon, atau CSS
+│   └── he125.png        # Contoh logo atau ikon
+├── README.md            # Dokumentasi proyek (file ini)
+└── ...
+```
 
-Bisa unduh aplikasi — cukup buka link dan mulai!
+---
+
+## 💡 Cara Menyesuaikan
+
+Untuk mengubah isi halaman atau menambahkan konten:
+1. Edit file `index.html` sesuai kebutuhan.
+2. Tambahkan gambar atau ikon ke folder `/assets`.
+3. Gunakan Tailwind CSS atau CSS tambahan untuk styling.
+
+**Contoh menambahkan logo kecil:**
+
+```html
+<img src="assets/he125.png" alt="Logo SIJAGO88" class="mx-auto w-16 h-auto mb-2 drop-shadow-md">
+```
 
 ---
 
 ## 🔗 Link Penting
 
-- 🌍 Website Resmi: [https://sijago88nih.github.io/OFFICIAL](https://sijago88nih.github.io/OFFICIAL/)
-- 📝 Link Daftar: [https://adskita.link/sijago88](https://adskita.link/sijago88)
+- 🌐 **Website**: [SIJAGO88 Official](https://sijago88nih.github.io/OFFICIAL/)
+- 📝 **Formulir Daftar**: [https://adskita.link/sijago88](https://adskita.link/sijago88)
 
 ---
 
-## 🙌 Bergabung Sekarang!
+## 📣 Catatan
 
-Jangan lewatkan kesempatan untuk menjadi bagian dari komunitas kami.  
-Gabung sekarang dan rasakan pengalaman terbaik bersama **SIJAGO88**.
+> Proyek ini dibuat untuk tujuan informasi dan promosi **yang tidak berkaitan dengan perjudian**. Konten didesain ramah pengguna dan bebas dari pelanggaran kebijakan publik.
 
-➡️ [DAFTAR SEKARANG](https://adskita.link/sijago88)
+---
+
+## 🛠️ Lisensi
+
+Konten ini dilindungi hak cipta oleh pemiliknya dan tidak dimaksudkan untuk disalin atau didistribusikan tanpa izin.  
+Gunakan dengan bijak.
