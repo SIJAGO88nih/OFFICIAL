@@ -38,7 +38,7 @@ Untuk mengubah isi halaman atau menambahkan konten:
 **Contoh menambahkan logo kecil:**
 
 ```html
-<img src="assets/he125.png" alt="Logo SIJAGO88" class="mx-auto w-16 h-auto mb-2 drop-shadow-md">
+<img src="assets/he1256 (1).png" alt="Logo SIJAGO88" class="mx-auto w-16 h-auto mb-2 drop-shadow-md">
 ```
 
 ---
