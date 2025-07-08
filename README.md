@@ -1,5 +1,5 @@
 # 📘 SIJAGO88 OFFICIAL
-
+<meta name="google-site-verification" content="NWK-FdljYrvvbVWUVuaRb39SkAX8CZqDWoAjk014HFc" />
 **SIJAGO88 OFFICIAL** adalah halaman web publik yang dibangun menggunakan GitHub Pages, berfungsi sebagai **platform informasi utama** dan pusat tautan untuk pengguna SIJAGO88. Halaman ini dirancang dengan antarmuka sederhana, cepat diakses, dan mobile-friendly.
 
 🔗 **URL Situs**: [https://sijago88nih.github.io/OFFICIAL/](https://sijago88nih.github.io/OFFICIAL/)
